@@ -8,5 +8,5 @@ class student :
         print("Hello! I'm {} {}! Nice to meet you!".format(self.id, self.name))
 
 if __name__ == "__main__":
-    a = student("방재현", 20221193)
+    a = student("something", 20220000)
     a.introduce()
