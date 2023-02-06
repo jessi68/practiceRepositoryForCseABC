@@ -1,3 +1,3 @@
 #dhkhkkkdhskkkh
-a = 1
-b = 2
+apple = 1
+banana = 2
