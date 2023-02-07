@@ -10,3 +10,6 @@ class student :
 if __name__ == "__main__":
     a = student("something", 20220000)
     a.introduce()
+#dhkhkkkdhskkkh
+apple = 1
+banana = 2
